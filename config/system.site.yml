@@ -1,0 +1,14 @@
+uuid: 98079911-5150-47fb-bfba-b1a5d9e45675
+name: mostafiz-cowork-d8
+mail: csemrm@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
